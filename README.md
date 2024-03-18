@@ -1,5 +1,3 @@
-This repo is for my [Creating Lambda Layers with TypeScript and CDK - The Right Way](https://www.shawntorsitano.com/2022/06/19/creating-lambda-layers-with-typescript-and-cdk-the-right-way/) post. Refer to that post for information on the code in this repo.
-
 ## Build Layer
 
 Use esbuild to compile the JavaScript files for the Layer, deploy the Layer with CDK
@@ -20,5 +18,5 @@ tsc
 Install the package using:
 
 ```shell
-npm i git+ssh://git@github.com:Torsitano/cdk-layer-example
+npm i git+ssh://git@github.com:crycime/cdk-layer
 ```
