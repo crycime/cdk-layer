@@ -8,3 +8,5 @@ export class Api {
     return response?.data
   }
 }
+
+export const demoRes = () => '测试'
